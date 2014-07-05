@@ -7,8 +7,9 @@ header {
 	color: white;
 }
 header h1 {
-	color: black;
+	color: white;
 	font-family: 'freestyle script';
+	font-size: 40px;
 	padding: 5px 15px;
 	display: inline;
 }
@@ -33,4 +34,5 @@ p{
 	font-family: 'tahoma', 'veranda', 'sans-serif';
 	text-align: center;
 	color: #999;
+	margin: 10px;
 }
