@@ -1,0 +1,10 @@
+h1 {
+	color: black;
+	font-family: 'Channel';
+}
+p{
+	font-family: 'tahoma', 'veranda', 'sans-serif';
+	text-align: center;
+	background: #999;
+	color: white;
+}
