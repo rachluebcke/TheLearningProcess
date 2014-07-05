@@ -1,10 +1,21 @@
-h1 {
+body {
+	margin: 0;
+}
+header {
+	background-color: #999;
+	margin: 0;
+	color: white;
+}
+header h1 {
 	color: black;
 	font-family: 'freestyle script';
+	margin: 0;
+}
+nav ul {
+	margin: 0;
 }
 p{
 	font-family: 'tahoma', 'veranda', 'sans-serif';
 	text-align: center;
-	background: #999;
-	color: white;
+	color: #999;
 }
