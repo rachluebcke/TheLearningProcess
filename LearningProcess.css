@@ -9,10 +9,25 @@ header {
 header h1 {
 	color: black;
 	font-family: 'freestyle script';
-	margin: 0;
+	padding: 5px 15px;
+	display: inline;
 }
 nav ul {
 	margin: 0;
+	display: inline;
+}
+nav ul li{
+	background: #333;
+	color: white;
+	font-family: 'tahoma', 'veranda', 'sans-serif';
+	list-style-type: none;
+	display: inline-block;
+	margin: 1px; 
+	padding: 5px 15px;
+}
+
+nav ul li a {
+	color: white;
 }
 p{
 	font-family: 'tahoma', 'veranda', 'sans-serif';
